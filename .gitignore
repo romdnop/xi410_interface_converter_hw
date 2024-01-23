@@ -8,3 +8,6 @@ __Previews/
 *\History
 *.PrjPcbStructure
 *~$*
+*.LOG
+*.log
+*Logs*
