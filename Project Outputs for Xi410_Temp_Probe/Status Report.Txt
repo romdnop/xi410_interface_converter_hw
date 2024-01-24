@@ -1,10 +1,10 @@
-Output: Export STEP
+Output: Export PARASOLID
 Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1.step]
+   Generated File[PCB1.x_t]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:22:22 On 23.01.2024
+Finished Output Generation At 10:23:09 On 24.01.2024
